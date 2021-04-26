@@ -1,4 +1,4 @@
-# APIAuthenticated
+# APIAuthentication
 ![image](https://user-images.githubusercontent.com/71784239/116158947-00f0bb00-a6b5-11eb-8ca6-af6325169cfd.png)
 
 ### Desarrollo de API Crud-PHP, Bdd-MSQL, Framework-LARAVEL-BOOTSTRAP, Pruebas-POSTMAN-MAILTRAP
