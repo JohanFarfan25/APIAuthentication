@@ -60,8 +60,7 @@ class HomeController extends Controller
     
             User::create($campos);
 
-            return back()->with('Listo', ' El Usuario'.' '.$request->get('email').' '. 'fue creado exitosamente '
-            . 'Por favor activa tu cuenta con el enlace que fue enviedo a tu correo');
+            return back()->with('Listo', ' El Usuario'.' '.$request->get('email').' '. 'fue creado exitosamente ¡, Debe ingresar al correo y activar la cuenta !');
             
             
         } catch (\Throwable $th) {
