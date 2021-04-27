@@ -3,7 +3,7 @@
 
 ### Desarrollo de API Crud-PHP, Bdd-MSQL, Framework-LARAVEL-BOOTSTRAP, Pruebas-POSTMAN-MAILTRAP
 #### Importante tener en cuenta que no esta completo, falta la implemenrtación del passport para permisos de usuario access Token
-## [Ver docuementación técnica](Doc_Tecnica_API.pdf)
+## [Ver documentación técnica](Doc_Tecnica_API.pdf)
 
 ## Pre-requisitos
 PHP 7: Necesitamos la última versión del lenguaje PHP, puede ser xampp.\ 
