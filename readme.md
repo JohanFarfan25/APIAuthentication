@@ -6,10 +6,12 @@
 ## [Ver documentación técnica](Doc_Tecnica_API.pdf)
 
 ## Pre-requisitos
-PHP 7: Necesitamos la última versión del lenguaje PHP, puede ser xampp.\ 
+PHP 7: Necesitamos la última versión del lenguaje PHP, puede ser xampp. 
 
-Composer: El gestor de dependencias de PHP.\
+Composer: El gestor de dependencias de PHP.
+
 MYSQL.\
+
 Editor de codigo fuente puede ser Visual Studio Code.
 
 
